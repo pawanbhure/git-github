@@ -1,2 +1,4 @@
 # git-github
-git test
+#git test
+#! /bin/bash
+echo "hello world"
